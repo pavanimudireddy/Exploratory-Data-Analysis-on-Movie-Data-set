@@ -68,7 +68,8 @@ movie-metadata-analysis/
 - Time series plots showing trends in budget, revenue, and ROI over the years
 - Analysis of top popular movies
 
----
+## Screenshots
+
 
 ## Problems Faced and Solutions
 
