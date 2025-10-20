@@ -134,8 +134,21 @@ movie-metadata-analysis/
 
 - 🏆 **Top producers (like Universal, Warner Bros., etc.)** are commonly associated with high-revenue films, but not always high-ROI ones.
 
+  ## 🔭 Future Work
+
+- 🧠 **Machine Learning Models:** Apply regression or classification models to predict movie revenue, profitability, or popularity based on metadata.
+- 📈 **Advanced Visualizations:** Use interactive dashboards with Plotly or Streamlit for better data exploration.
+- 🌐 **NLP on Overview/Taglines:** Perform sentiment analysis or keyword extraction on movie overviews to find patterns in successful films.
+- 🎞️ **Deep Dive on Collections:** Analyze how sequels or franchises perform compared to standalones across multiple metrics.
+- 🕵️‍♂️ **Recommendation System:** Build a movie recommendation engine using content-based or collaborative filtering techniques.
+- 🌍 **Geographical Trends:** Analyze production countries for regional insights on genres, budgets, and profitability.
+- 📊 **Box Office vs Streaming:** Explore additional data sources to compare theatrical releases with streaming-first movies.
+
+
+## 👤 Author
 ## 📬 Contact Me
+**Pavani Mudireddy**
 - 📧 Email: [yourname@gmail.com](pavanimudireddy2003@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/pavani-mudireddy)  
-- 🐙 GitHub: [your-username]()
+- 🐙 GitHub: [your-username](https://github.com/pavanimudireddy)
 
