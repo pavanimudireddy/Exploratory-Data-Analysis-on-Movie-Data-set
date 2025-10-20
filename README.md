@@ -44,20 +44,21 @@ This project analyses a dataset of 40,000+ movies to uncover trends budget, reve
 movie-metadata-analysis/
 │
 ├── data/
-│ └── movies_metadata.csv # Original raw dataset CSV file
+│   └── movies_metadata.csv
 │
 ├── notebooks/
-│ └── movie_analysis.ipynb # Jupyter notebook with data cleaning, transformation, and visualization
+│   └── movie_analysis.ipynb
 │
-├── screenshots/ # Folder containing all screenshots for documentation
-│ ├── distribution_vote_averages.png
-│ ├── budget_vs_profit_scatterplot.png
-│ ├── average_roi_by_genre.png
-│ └── avg_budget_revenue_over_time.png
+├── screenshots/
+│   ├── distribution_vote_averages.png
+│   ├── budget_vs_profit_scatterplot.png
+│   ├── average_roi_by_genre.png
+│   └── avg_budget_revenue_over_time.png
 │
-├── finalcleanedata.csv # Cleaned and processed dataset saved as CSV
+├── finalcleanedata.csv
 │
-└── README.md # Project overview, instructions, and insights
+└── README.md
+
 
 ## Visualization
 
@@ -74,7 +75,19 @@ movie-metadata-analysis/
 <img width="691" height="547" alt="Budget vs profit" src="https://github.com/user-attachments/assets/a0d4df4f-2e58-4e0a-98e0-cb159f85b127" />
 
 ## Budget Revenue by Language
+<img width="1001" height="578" alt="Budget Reavenus by language" src="https://github.com/user-attachments/assets/2285623a-69f6-4236-9af1-812b474f8e45" />
 
+## Release Year vs Vote Average
+<img width="575" height="455" alt="release year vs vote average" src="https://github.com/user-attachments/assets/fb7e62ca-7420-4211-acb6-9444e66bcfae" />
+
+## ROI by Genre
+<img width="1001" height="616" alt="ROI by Genre" src="https://github.com/user-attachments/assets/b4072284-b927-4664-88ea-9844ab9331d3" />
+
+## Top 10 Movies
+<img width="794" height="547" alt="top 10 movies" src="https://github.com/user-attachments/assets/cc3c1e45-7f4c-4ddb-b0cb-750dabf29b46" />
+
+## Corelation
+<img width="998" height="682" alt="corelation" src="https://github.com/user-attachments/assets/e3c404b2-44d3-4752-930d-e7af38f3758b" />
 
 ## Problems Faced and Solutions
 ### Problems Faced
@@ -99,10 +112,30 @@ movie-metadata-analysis/
 - Created one-hot encoded columns for each genre to facilitate analysis.
 - Standardized text data by converting to lowercase and stripping leading/trailing spaces for consistency.
 
----
+## 🧠 Conclusions and Insights
 
-## How to Use
+- 🎯 **Movies with larger budgets tend to earn higher revenue**, but this doesn't always translate to higher return on investment (ROI).
+  
+- 💡 **Genres such as Drama, Adventure, and Animation often show higher ROI**, suggesting quality storytelling or broader audience appeal.
+  
+- 🔥 **Popularity** moderately correlates with **vote averages**, but not significantly with actual **profitability**.
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/moviemetadata-analysis.git
+- 🌍 **English-language movies dominate** the dataset and typically have both higher budgets and higher revenue than non-English movies.
+
+- 📦 **Movies that belong to a collection (e.g., sequels or franchises)** tend to perform better financially compared to standalone films.
+
+- 🏭 **The number of production companies involved does not significantly affect a movie's profitability**, suggesting that collaboration doesn't guarantee success.
+
+- 📈 **Average budgets and revenues have increased over the years**, indicating rising production and marketing costs in the film industry.
+
+- 🧛 **Horror and Thriller movies** often have **lower budgets** but can yield high ROI when successful—this makes them attractive for low-cost, high-return projects.
+
+- 🌐 Movies with **more spoken languages or a homepage** do not always perform better, but these may indicate broader distribution strategies.
+
+- 🏆 **Top producers (like Universal, Warner Bros., etc.)** are commonly associated with high-revenue films, but not always high-ROI ones.
+
+## 📬 Contact Me
+- 📧 Email: [yourname@gmail.com](pavanimudireddy2003@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/pavani-mudireddy)  
+- 🐙 GitHub: [your-username]()
+
