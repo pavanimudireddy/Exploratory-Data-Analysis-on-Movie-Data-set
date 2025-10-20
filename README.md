@@ -70,7 +70,11 @@ movie-metadata-analysis/
 
 ## Screenshots
 
+## Budget vs project
 <img width="691" height="547" alt="Budget vs profit" src="https://github.com/user-attachments/assets/a0d4df4f-2e58-4e0a-98e0-cb159f85b127" />
+
+## Budget Revenue by Language
+
 
 ## Problems Faced and Solutions
 ### Problems Faced
